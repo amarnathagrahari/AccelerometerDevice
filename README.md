@@ -1,2 +1,2 @@
 # AccelerometerDevice
-BLE Server Configured on the ESP32 
+BLE Server Demo on ESP32 
